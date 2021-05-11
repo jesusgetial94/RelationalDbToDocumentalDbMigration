@@ -1,0 +1,4 @@
+db.observatorio.insert({"obs_identificador":"ovsp","obs_nombre":"Observatorio volcanologico Pasto","obs_direccion":"Barrio Carolina Ciudad Pasto"})
+db.observatorio.insert({"obs_identificador":"ovsm","obs_nombre":"Observatorio volcanologico Manizales","obs_direccion":"Barrio Chipre Ciudad Manizales"})
+db.observatorio.insert({"obs_identificador":"ovspop","obs_nombre":"Observatorio vulcanologico Popayan","obs_direccion":"Barrio Loma Cartagena Ciudad Popayan"})
+

@@ -16,8 +16,6 @@ public class ConvertirBDdocumental {
     /**
      * @param args the command line arguments
      */
-    
-    
     public static void main(String[] args) {
         // TODO code application logic here
         ExportadorDBADocumental exportadorBase = new ExportadorDBADocumental();
@@ -31,9 +29,5 @@ public class ConvertirBDdocumental {
         exportadorBase.exportarUnoAUnoEmbebido("medida_inclinometro","min_codigo","cambio_tendencia_inclinometro","min_codigo","cambio_tendencia");
         exportadorBase.exportarTabla("estacion_so2");
         exportadorBase.exportarTabla("medida_so2");
-        
-        
-        
     }
-    
 }

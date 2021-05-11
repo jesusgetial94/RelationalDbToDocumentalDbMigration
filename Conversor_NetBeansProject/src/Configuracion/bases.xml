@@ -12,7 +12,7 @@
         <puerto>5432</puerto>
         <usuario>postgres</usuario>
         <!--<psw>postgres</psw>--> 
-        <psw>Yqip8.1</psw>
+        <psw>base</psw>
 
     </basedatos>
 </basesddatos>

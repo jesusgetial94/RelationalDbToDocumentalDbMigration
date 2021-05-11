@@ -1,0 +1,6 @@
+db.volcan.insert({"obs_identificador":"ovsp","vol_nombre":"Galeras","vol_latitud":1.1299999999999999,"vol_longitud":-77.239999999999995,"vol_altitud":4250})
+db.volcan.insert({"obs_identificador":"ovsp","vol_nombre":"Cumbal","vol_latitud":1.01,"vol_longitud":-77.219999999999999,"vol_altitud":4700})
+db.volcan.insert({"obs_identificador":"ovsp","vol_nombre":"Chiles","vol_latitud":0.89000000000000001,"vol_longitud":-77.200000000000003,"vol_altitud":4700})
+db.volcan.insert({"obs_identificador":"ovsm","vol_nombre":"Ruiz","vol_latitud":1.3400000000000001,"vol_longitud":-77.299999999999997,"vol_altitud":5200})
+db.volcan.insert({"obs_identificador":"ovspop","vol_nombre":"Purace","vol_latitud":1.22,"vol_longitud":-77.269999999999996,"vol_altitud":4800})
+

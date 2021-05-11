@@ -49,7 +49,7 @@ public class Tabla {
     }
     public String generarSqlExportacionTablaRelacionada(String valorCampoTablaPrincipal){
         String sentenciaSql = "select * from "+tablaRelacionada.nombreTabla +" where "+campoTablaRecionada.getNombre() +"=";
-        if(campoTablaPrincipal.getTipo().equals("varchar"))
+        if(campoTablaPrincipal.getTipo().equals("varchar")||campoTablaPrincipal.getTipo().equals("timestamp"))
             sentenciaSql+="'"+valorCampoTablaPrincipal+"'";
         else
             sentenciaSql+=valorCampoTablaPrincipal;
@@ -121,14 +121,13 @@ public class Tabla {
                                       else
                                           incluirComa = true;
                                       json=json+"\""+columnasConsulta[i].getNombre()+"\":";
-                                      if(columnasConsulta[i].getTipo().equals("varchar"))
+                                      if(columnasConsulta[i].getTipo().equals("varchar")||columnasConsulta[i].getTipo().equals("timestamp"))
                                           json = json+"\""+valorCampo+"\"";
                                       else
                                           json = json+valorCampo;
                                 }
                           }
-                          if(i+1==columnasConsulta.length&&relacionarTabla){
-                                
+                          if(i+1==columnasConsulta.length&&relacionarTabla){   
                                 String sentenciaSQLRelacionda = generarSqlExportacionTablaRelacionada(resultado.getString(campoTablaPrincipal.getNombre()));
                                 System.out.println(sentenciaSQLRelacionda);
                                 if(unoAMuchos)
@@ -143,8 +142,7 @@ public class Tabla {
                                      json+="[";
                                   json = json + jsonTablaRelacionada;
                                   if(unoAMuchos)
-                                    json+="]\n";
-                                  
+                                    json+="]\n";      
                                 }
                                 relacionarTabla=true;
                                 registrosTablaRelacionada = false;
@@ -166,7 +164,6 @@ public class Tabla {
                 }
             }
         }
-        
         return json;
     }
     
