@@ -1,6 +1,6 @@
 # RelationalDbToDocumentalDbMigration
 
-This program let to change a relational model data base into a documental db. Oriented to use MongoDB 
+This program let to migrate a relational model data base into a documental db. In this approach, oriented to use MongoDB.
 
 ## 1. MongoDb Set Up:
 
