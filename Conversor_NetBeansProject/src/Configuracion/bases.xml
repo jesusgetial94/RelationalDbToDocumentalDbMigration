@@ -4,11 +4,7 @@
         <tipo>rdb</tipo>
         <gestor>postgresql</gestor>
         <nombre>monitoreo_volcanico</nombre>
-
-
         <ip>localhost</ip>            
-
-
         <puerto>5432</puerto>
         <usuario>postgres</usuario>
         <!--<psw>postgres</psw>--> 

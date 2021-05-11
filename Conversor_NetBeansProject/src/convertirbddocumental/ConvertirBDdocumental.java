@@ -20,14 +20,14 @@ public class ConvertirBDdocumental {
         // TODO code application logic here
         ExportadorDBADocumental exportadorBase = new ExportadorDBADocumental();
         exportadorBase.rutaExportacion = "C:/Maestria/articulo_bases_datos/taller2/colecciones/";
-        exportadorBase.exportarTabla("observatorio");
-        exportadorBase.exportarTabla("volcan");
-        exportadorBase.exportarTabla("volcan_estacionsismica");
+        exportadorBase.exportarTablaConReferencia("observatorio");
+        exportadorBase.exportarTablaConReferencia("volcan");
+        exportadorBase.exportarTablaConReferencia("volcan_estacionsismica");
         exportadorBase.exportarUnoAUnoEmbebido("estacion_sismica","ess_codigo","respuesta_estacionsismica","ess_codigo","respuesta");
         exportadorBase.exportarUnoAMuchosEmbebido("sismo","sis_codigo","localizacion","sis_codigo","localizaciones");
-        exportadorBase.exportarTabla("estacion_inclinometria");
+        exportadorBase.exportarTablaConReferencia("estacion_inclinometria");
         exportadorBase.exportarUnoAUnoEmbebido("medida_inclinometro","min_codigo","cambio_tendencia_inclinometro","min_codigo","cambio_tendencia");
-        exportadorBase.exportarTabla("estacion_so2");
-        exportadorBase.exportarTabla("medida_so2");
+        exportadorBase.exportarTablaConReferencia("estacion_so2");
+        exportadorBase.exportarTablaConReferencia("medida_so2");
     }
 }

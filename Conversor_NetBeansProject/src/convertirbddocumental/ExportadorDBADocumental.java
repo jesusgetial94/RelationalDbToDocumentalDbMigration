@@ -35,7 +35,7 @@ public class ExportadorDBADocumental {
             System.out.println("Poblemas al escribir coleccion "+nombreColeccion+" "+ex.getMessage());
         }    
     }
-    public void exportarTabla(String nombreTabla){
+    public void exportarTablaConReferencia(String nombreTabla){
         String coleccion = bd.exportarTabla(nombreTabla);
         escribirColeccion(nombreTabla, coleccion);
     }
