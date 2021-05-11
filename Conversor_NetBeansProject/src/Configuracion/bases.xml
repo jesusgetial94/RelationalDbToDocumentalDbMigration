@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone="yes"?>
+<basesddatos>
+    <basedatos>
+        <tipo>rdb</tipo>
+        <gestor>postgresql</gestor>
+        <nombre>monitoreo_volcanico</nombre>
+
+
+        <ip>localhost</ip>            
+
+
+        <puerto>5432</puerto>
+        <usuario>postgres</usuario>
+        <!--<psw>postgres</psw>--> 
+        <psw>Yqip8.1</psw>
+
+    </basedatos>
+</basesddatos>
+
