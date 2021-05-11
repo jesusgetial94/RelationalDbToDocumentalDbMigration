@@ -1,0 +1,296 @@
+db.sismo.insert({"sis_codigo":1,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-01-01 00:05:04,"sis_amplitud":500,"sis_duracion":30,"sis_energia_liberada":17864251})
+db.sismo.insert({"sis_codigo":2,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-02-16 06:53:47,"sis_amplitud":3058.3823170000001,"sis_duracion":31,"sis_energia_liberada":6953438.6299999999,"localizaciones":
+[
+{"loc_codigo":1,"loc_latitud":1.1299999999999999,"loc_longitud":77.450000000000003,"loc_profundidad":2,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":2,"loc_latitud":1.1520474949999999,"loc_longitud":78.385447729999996,"loc_profundidad":7.5700000000000003,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":3,"loc_latitud":1.5787799,"loc_longitud":77.92107962,"loc_profundidad":8.0700000000000003,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":3,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-03-29 11:04:08,"sis_amplitud":900.71053259999996,"sis_duracion":26,"sis_energia_liberada":16243779.699999999,"localizaciones":
+[
+{"loc_codigo":4,"loc_latitud":1.558302547,"loc_longitud":77.689077589999997,"loc_profundidad":7.2699999999999996,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":5,"loc_latitud":1.692692622,"loc_longitud":78.269144749999995,"loc_profundidad":13.94,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":4,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-04-08 13:36:11,"sis_amplitud":2529.0274840000002,"sis_duracion":60,"sis_energia_liberada":15992607.880000001})
+db.sismo.insert({"sis_codigo":5,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-04-19 22:01:04,"sis_amplitud":2291.3297790000001,"sis_duracion":21,"sis_energia_liberada":15633160.550000001})
+db.sismo.insert({"sis_codigo":6,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-05-30 22:55:40,"sis_amplitud":1995.3931480000001,"sis_duracion":41,"sis_energia_liberada":7853731.8459999999})
+db.sismo.insert({"sis_codigo":7,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-07-14 21:36:47,"sis_amplitud":685.10344659999998,"sis_duracion":27,"sis_energia_liberada":12724505.57,"localizaciones":
+[
+{"loc_codigo":16,"loc_latitud":1.6937745790000001,"loc_longitud":77.897386080000004,"loc_profundidad":4.2800000000000002,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":8,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-08-02 04:44:57,"sis_amplitud":230.9957192,"sis_duracion":35,"sis_energia_liberada":5510838.1809999999})
+db.sismo.insert({"sis_codigo":9,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-09-10 23:55:22,"sis_amplitud":4320.7086550000004,"sis_duracion":7,"sis_energia_liberada":5456956.2400000002,"localizaciones":
+[
+{"loc_codigo":7,"loc_latitud":1.219079158,"loc_longitud":78.243666129999994,"loc_profundidad":3.9700000000000002,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":10,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-10-06 00:06:17,"sis_amplitud":365.6309665,"sis_duracion":42,"sis_energia_liberada":4820448.7209999999,"localizaciones":
+[
+{"loc_codigo":32,"loc_latitud":1.9612095789999999,"loc_longitud":77.910753790000001,"loc_profundidad":10.9,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":11,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-11-05 10:51:37,"sis_amplitud":886.99347450000005,"sis_duracion":11,"sis_energia_liberada":7514131.1880000001,"localizaciones":
+[
+{"loc_codigo":6,"loc_latitud":2.1123090150000001,"loc_longitud":77.547953579999998,"loc_profundidad":8.4399999999999995,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":24,"loc_latitud":1.6696778370000001,"loc_longitud":77.939944490000002,"loc_profundidad":6.7000000000000002,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":12,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-12-05 08:36:24,"sis_amplitud":5589.1974300000002,"sis_duracion":61,"sis_energia_liberada":1993843.007})
+db.sismo.insert({"sis_codigo":13,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-12-11 10:19:22,"sis_amplitud":3306.9608469999998,"sis_duracion":33,"sis_energia_liberada":2767008.8560000001})
+db.sismo.insert({"sis_codigo":14,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-12-12 08:59:23,"sis_amplitud":4538.4395249999998,"sis_duracion":57,"sis_energia_liberada":9878781.1439999994})
+db.sismo.insert({"sis_codigo":15,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2010-12-13 23:35:21,"sis_amplitud":4747.6580110000004,"sis_duracion":30,"sis_energia_liberada":10097255.130000001})
+db.sismo.insert({"sis_codigo":16,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-01-22 04:32:37,"sis_amplitud":1171.240452,"sis_duracion":21,"sis_energia_liberada":8089825.7120000003,"localizaciones":
+[
+{"loc_codigo":35,"loc_latitud":2.123876208,"loc_longitud":77.772646660000007,"loc_profundidad":11.98,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":45,"loc_latitud":1.940488706,"loc_longitud":78.067929149999998,"loc_profundidad":0.76000000000000001,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":17,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-03-12 11:51:15,"sis_amplitud":343.70766370000001,"sis_duracion":27,"sis_energia_liberada":4968694.3200000003,"localizaciones":
+[
+{"loc_codigo":8,"loc_latitud":1.775954783,"loc_longitud":78.181241639999996,"loc_profundidad":8.8399999999999999,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":18,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-04-06 17:04:38,"sis_amplitud":101.1362472,"sis_duracion":31,"sis_energia_liberada":16458422.18})
+db.sismo.insert({"sis_codigo":19,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-04-09 07:42:23,"sis_amplitud":3145.9784610000002,"sis_duracion":34,"sis_energia_liberada":4855032.8039999995,"localizaciones":
+[
+{"loc_codigo":10,"loc_latitud":1.5929850750000001,"loc_longitud":77.825114760000005,"loc_profundidad":4.8499999999999996,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":20,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-04-20 04:44:02,"sis_amplitud":7110.9048579999999,"sis_duracion":20,"sis_energia_liberada":9924564.7430000007,"localizaciones":
+[
+{"loc_codigo":22,"loc_latitud":1.950371868,"loc_longitud":78.091068289999995,"loc_profundidad":9.1999999999999993,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":21,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-05-11 11:39:34,"sis_amplitud":3058.499503,"sis_duracion":37,"sis_energia_liberada":16355820.59})
+db.sismo.insert({"sis_codigo":22,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-06-25 11:56:49,"sis_amplitud":6290.806654,"sis_duracion":20,"sis_energia_liberada":7477610.3660000004})
+db.sismo.insert({"sis_codigo":23,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-08-03 23:24:17,"sis_amplitud":198.20290309999999,"sis_duracion":43,"sis_energia_liberada":8502069.5810000002})
+db.sismo.insert({"sis_codigo":24,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-09-17 00:28:49,"sis_amplitud":5107.0771240000004,"sis_duracion":47,"sis_energia_liberada":12275948.91,"localizaciones":
+[
+{"loc_codigo":54,"loc_latitud":1.8564674859999999,"loc_longitud":77.713153500000004,"loc_profundidad":13.210000000000001,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":25,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-10-30 04:13:30,"sis_amplitud":1773.169224,"sis_duracion":23,"sis_energia_liberada":11137790.289999999})
+db.sismo.insert({"sis_codigo":26,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2011-12-01 21:29:53,"sis_amplitud":257.36389489999999,"sis_duracion":7,"sis_energia_liberada":5911219.4160000002,"localizaciones":
+[
+{"loc_codigo":18,"loc_latitud":1.5573326199999999,"loc_longitud":77.651111259999993,"loc_profundidad":13.390000000000001,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":27,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-01-11 12:35:02,"sis_amplitud":174.83941139999999,"sis_duracion":35,"sis_energia_liberada":9576818.6940000001})
+db.sismo.insert({"sis_codigo":28,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-02-25 23:27:45,"sis_amplitud":4677.8909180000001,"sis_duracion":13,"sis_energia_liberada":7168341.1289999997,"localizaciones":
+[
+{"loc_codigo":33,"loc_latitud":1.906186524,"loc_longitud":77.839187269999996,"loc_profundidad":9.6400000000000006,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":37,"loc_latitud":1.614073662,"loc_longitud":77.767880020000007,"loc_profundidad":11.15,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":29,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-04-15 05:47:27,"sis_amplitud":4994.2095369999997,"sis_duracion":45,"sis_energia_liberada":16695179.32})
+db.sismo.insert({"sis_codigo":30,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-05-25 20:02:37,"sis_amplitud":4836.8385440000002,"sis_duracion":65,"sis_energia_liberada":15566062.380000001})
+db.sismo.insert({"sis_codigo":31,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-07-09 09:27:29,"sis_amplitud":6480.202722,"sis_duracion":55,"sis_energia_liberada":15412659.140000001,"localizaciones":
+[
+{"loc_codigo":13,"loc_latitud":1.547299907,"loc_longitud":78.414937769999995,"loc_profundidad":11.09,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":15,"loc_latitud":1.6556685529999999,"loc_longitud":77.985688780000004,"loc_profundidad":4.4800000000000004,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":32,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-07-15 13:18:36,"sis_amplitud":2909.6218920000001,"sis_duracion":32,"sis_energia_liberada":12615366.449999999})
+db.sismo.insert({"sis_codigo":33,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-07-24 18:55:29,"sis_amplitud":435.12324740000003,"sis_duracion":63,"sis_energia_liberada":15960910.41})
+db.sismo.insert({"sis_codigo":34,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-07-29 07:09:59,"sis_amplitud":6292.389776,"sis_duracion":61,"sis_energia_liberada":11782407})
+db.sismo.insert({"sis_codigo":35,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-07-31 21:46:12,"sis_amplitud":96.864849950000007,"sis_duracion":41,"sis_energia_liberada":11781595.310000001})
+db.sismo.insert({"sis_codigo":36,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-08-18 08:58:43,"sis_amplitud":7270.2413640000004,"sis_duracion":12,"sis_energia_liberada":10590592.57,"localizaciones":
+[
+{"loc_codigo":60,"loc_latitud":1.7402557890000001,"loc_longitud":77.637754330000007,"loc_profundidad":13.56,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":37,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-09-28 19:57:27,"sis_amplitud":5394.1134060000004,"sis_duracion":55,"sis_energia_liberada":5290083.4859999996,"localizaciones":
+[
+{"loc_codigo":56,"loc_latitud":1.504877893,"loc_longitud":78.271277339999997,"loc_profundidad":8.3900000000000006,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":38,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-10-10 04:34:00,"sis_amplitud":144.4937323,"sis_duracion":36,"sis_energia_liberada":9762967.8540000003})
+db.sismo.insert({"sis_codigo":39,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-10-29 19:47:47,"sis_amplitud":56.868406409999999,"sis_duracion":11,"sis_energia_liberada":14995934.48,"localizaciones":
+[
+{"loc_codigo":26,"loc_latitud":1.246645325,"loc_longitud":78.271841609999996,"loc_profundidad":8.9499999999999993,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":40,"loc_latitud":1.3743766879999999,"loc_longitud":77.788733269999994,"loc_profundidad":13.16,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":40,"vol_nombre":"Galeras","ess_codigo":1,"sis_tiempo_inicio":2012-11-17 15:58:17,"sis_amplitud":1268.561582,"sis_duracion":53,"sis_energia_liberada":8451895.0810000002,"localizaciones":
+[
+{"loc_codigo":41,"loc_latitud":1.5781636020000001,"loc_longitud":78.343375019999996,"loc_profundidad":10.56,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":41,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-01-02 13:01:36,"sis_amplitud":1318.8295169999999,"sis_duracion":32,"sis_energia_liberada":14300288.73})
+db.sismo.insert({"sis_codigo":42,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-01-30 05:55:37,"sis_amplitud":4189.2704489999996,"sis_duracion":22,"sis_energia_liberada":7302833.9129999997})
+db.sismo.insert({"sis_codigo":43,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-02-21 18:04:32,"sis_amplitud":709.89588930000002,"sis_duracion":13,"sis_energia_liberada":216201.58919999999,"localizaciones":
+[
+{"loc_codigo":53,"loc_latitud":2.1011433959999999,"loc_longitud":77.534546300000002,"loc_profundidad":6.4699999999999998,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":44,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-02-23 02:38:58,"sis_amplitud":4144.9343799999997,"sis_duracion":12,"sis_energia_liberada":11114256.890000001})
+db.sismo.insert({"sis_codigo":45,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-03-13 01:53:06,"sis_amplitud":142.28920260000001,"sis_duracion":19,"sis_energia_liberada":9339157.9169999994,"localizaciones":
+[
+{"loc_codigo":59,"loc_latitud":1.8801696560000001,"loc_longitud":78.301498839999994,"loc_profundidad":14.49,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":46,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-04-25 00:42:17,"sis_amplitud":1699.195316,"sis_duracion":22,"sis_energia_liberada":15768470.119999999})
+db.sismo.insert({"sis_codigo":47,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-06-11 13:39:30,"sis_amplitud":4003.5406010000002,"sis_duracion":45,"sis_energia_liberada":10657971.18,"localizaciones":
+[
+{"loc_codigo":11,"loc_latitud":1.9537238669999999,"loc_longitud":78.108905719999996,"loc_profundidad":5.9199999999999999,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":48,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-07-18 11:58:58,"sis_amplitud":672.99983999999995,"sis_duracion":44,"sis_energia_liberada":11041797.470000001})
+db.sismo.insert({"sis_codigo":49,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-08-31 18:13:35,"sis_amplitud":580.37101910000001,"sis_duracion":40,"sis_energia_liberada":10592021.43})
+db.sismo.insert({"sis_codigo":50,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-09-19 19:04:33,"sis_amplitud":2835.5979739999998,"sis_duracion":34,"sis_energia_liberada":3846518.446,"localizaciones":
+[
+{"loc_codigo":23,"loc_latitud":2.0457704410000002,"loc_longitud":77.80888281,"loc_profundidad":11.289999999999999,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":43,"loc_latitud":1.9541719820000001,"loc_longitud":77.498944499999993,"loc_profundidad":13.460000000000001,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":51,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-10-01 03:54:46,"sis_amplitud":693.80680099999995,"sis_duracion":10,"sis_energia_liberada":12415280.5,"localizaciones":
+[
+{"loc_codigo":38,"loc_latitud":1.284801861,"loc_longitud":77.51079421,"loc_profundidad":12.58,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":52,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-10-31 14:20:20,"sis_amplitud":314.6330514,"sis_duracion":25,"sis_energia_liberada":11995844.93,"localizaciones":
+[
+{"loc_codigo":12,"loc_latitud":1.4487667399999999,"loc_longitud":77.668987509999994,"loc_profundidad":13.050000000000001,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":53,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-11-27 16:36:11,"sis_amplitud":7370.2492030000003,"sis_duracion":44,"sis_energia_liberada":8254556.7599999998})
+db.sismo.insert({"sis_codigo":54,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2013-12-21 06:59:27,"sis_amplitud":442.76624099999998,"sis_duracion":58,"sis_energia_liberada":7731980.4309999999})
+db.sismo.insert({"sis_codigo":55,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-01-07 05:44:43,"sis_amplitud":1797.6213379999999,"sis_duracion":42,"sis_energia_liberada":4586463.8449999997,"localizaciones":
+[
+{"loc_codigo":14,"loc_latitud":1.2397224929999999,"loc_longitud":77.866349889999995,"loc_profundidad":8.1500000000000004,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":28,"loc_latitud":1.194889785,"loc_longitud":77.93777188,"loc_profundidad":6.2300000000000004,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":56,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-02-11 08:34:57,"sis_amplitud":1301.654771,"sis_duracion":33,"sis_energia_liberada":15200693.199999999})
+db.sismo.insert({"sis_codigo":57,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-03-14 11:34:22,"sis_amplitud":2075.6687940000002,"sis_duracion":49,"sis_energia_liberada":14487916.970000001,"localizaciones":
+[
+{"loc_codigo":55,"loc_latitud":1.1798210339999999,"loc_longitud":77.966425970000003,"loc_profundidad":5.0999999999999996,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":58,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-03-22 06:49:21,"sis_amplitud":8270.2703619999993,"sis_duracion":36,"sis_energia_liberada":5889949.3779999996})
+db.sismo.insert({"sis_codigo":59,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-04-23 20:36:11,"sis_amplitud":4442.8554960000001,"sis_duracion":49,"sis_energia_liberada":3974386.233,"localizaciones":
+[
+{"loc_codigo":39,"loc_latitud":1.614823248,"loc_longitud":78.321644460000002,"loc_profundidad":4.6299999999999999,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":60,"vol_nombre":"Chiles","ess_codigo":11,"sis_tiempo_inicio":2014-04-24 18:38:52,"sis_amplitud":406.99077849999998,"sis_duracion":24,"sis_energia_liberada":10200868.439999999})
+db.sismo.insert({"sis_codigo":61,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-05-24 02:34:14,"sis_amplitud":6368.7321860000002,"sis_duracion":17,"sis_energia_liberada":5039384.199})
+db.sismo.insert({"sis_codigo":62,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-06-17 04:11:57,"sis_amplitud":1805.0421140000001,"sis_duracion":52,"sis_energia_liberada":16635865.220000001,"localizaciones":
+[
+{"loc_codigo":58,"loc_latitud":1.83786202,"loc_longitud":78.266732820000001,"loc_profundidad":4.8399999999999999,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":63,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-07-28 21:19:37,"sis_amplitud":1582.3170230000001,"sis_duracion":34,"sis_energia_liberada":1201046.3910000001,"localizaciones":
+[
+{"loc_codigo":47,"loc_latitud":1.5677498599999999,"loc_longitud":78.157383030000005,"loc_profundidad":0.53000000000000003,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":64,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-08-31 11:07:18,"sis_amplitud":4243.0645359999999,"sis_duracion":25,"sis_energia_liberada":2216953.1779999998,"localizaciones":
+[
+{"loc_codigo":19,"loc_latitud":1.179053087,"loc_longitud":77.787404210000005,"loc_profundidad":12.33,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":65,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-10-07 18:18:41,"sis_amplitud":378.65192359999998,"sis_duracion":29,"sis_energia_liberada":14558448.9})
+db.sismo.insert({"sis_codigo":66,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-10-23 03:45:39,"sis_amplitud":2653.4846889999999,"sis_duracion":5,"sis_energia_liberada":5968984.4689999996})
+db.sismo.insert({"sis_codigo":67,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-11-28 04:38:48,"sis_amplitud":4587.5508710000004,"sis_duracion":18,"sis_energia_liberada":2331024.2960000001,"localizaciones":
+[
+{"loc_codigo":44,"loc_latitud":1.87508366,"loc_longitud":78.251912480000001,"loc_profundidad":7.8099999999999996,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":68,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2014-12-22 19:15:36,"sis_amplitud":2204.5100870000001,"sis_duracion":59,"sis_energia_liberada":1166442.584})
+db.sismo.insert({"sis_codigo":69,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-01-15 18:38:11,"sis_amplitud":4207.2138709999999,"sis_duracion":51,"sis_energia_liberada":15971959.789999999})
+db.sismo.insert({"sis_codigo":70,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-02-16 18:46:26,"sis_amplitud":550.12974389999999,"sis_duracion":52,"sis_energia_liberada":13054003.140000001})
+db.sismo.insert({"sis_codigo":71,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-03-31 17:47:49,"sis_amplitud":4241.9849649999996,"sis_duracion":48,"sis_energia_liberada":17604034.489999998,"localizaciones":
+[
+{"loc_codigo":30,"loc_latitud":1.7102449900000001,"loc_longitud":78.156403359999999,"loc_profundidad":13.73,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":57,"loc_latitud":2.0062715290000002,"loc_longitud":78.412156539999998,"loc_profundidad":7.9100000000000001,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":72,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-05-18 20:29:06,"sis_amplitud":365.30432999999999,"sis_duracion":12,"sis_energia_liberada":10521173.359999999})
+db.sismo.insert({"sis_codigo":73,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-06-30 03:11:34,"sis_amplitud":2496.9797490000001,"sis_duracion":17,"sis_energia_liberada":15488065.49})
+db.sismo.insert({"sis_codigo":74,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-07-15 17:10:00,"sis_amplitud":4025.4844159999998,"sis_duracion":51,"sis_energia_liberada":2446048.4550000001,"localizaciones":
+[
+{"loc_codigo":46,"loc_latitud":1.8379113629999999,"loc_longitud":77.481839059999999,"loc_profundidad":9.4499999999999993,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":75,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-09-02 22:42:17,"sis_amplitud":3113.7759129999999,"sis_duracion":22,"sis_energia_liberada":12408485.74})
+db.sismo.insert({"sis_codigo":76,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-10-14 00:43:49,"sis_amplitud":3252.669836,"sis_duracion":8,"sis_energia_liberada":10490717.59,"localizaciones":
+[
+{"loc_codigo":27,"loc_latitud":1.8576230890000001,"loc_longitud":77.679375370000002,"loc_profundidad":9.9700000000000006,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":77,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-10-15 06:28:02,"sis_amplitud":548.15318260000004,"sis_duracion":58,"sis_energia_liberada":2961482.5499999998})
+db.sismo.insert({"sis_codigo":78,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-10-30 12:33:49,"sis_amplitud":1635.3690730000001,"sis_duracion":46,"sis_energia_liberada":5915431.5199999996})
+db.sismo.insert({"sis_codigo":79,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-11-12 08:36:06,"sis_amplitud":6779.2485059999999,"sis_duracion":48,"sis_energia_liberada":1638666.6100000001,"localizaciones":
+[
+{"loc_codigo":42,"loc_latitud":1.7388806530000001,"loc_longitud":77.751718179999997,"loc_profundidad":10.050000000000001,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":80,"vol_nombre":"Ruiz","ess_codigo":15,"sis_tiempo_inicio":2015-12-21 15:33:18,"sis_amplitud":1071.1879220000001,"sis_duracion":36,"sis_energia_liberada":1387534.1399999999,"localizaciones":
+[
+{"loc_codigo":34,"loc_latitud":1.829295967,"loc_longitud":78.281140530000002,"loc_profundidad":0.98999999999999999,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":81,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-01-26 19:51:55,"sis_amplitud":846.16240289999996,"sis_duracion":23,"sis_energia_liberada":17047655.800000001,"localizaciones":
+[
+{"loc_codigo":9,"loc_latitud":1.291712556,"loc_longitud":78.307745870000005,"loc_profundidad":2.9900000000000002,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":82,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-02-09 13:47:51,"sis_amplitud":7455.5177800000001,"sis_duracion":15,"sis_energia_liberada":3021653.6549999998})
+db.sismo.insert({"sis_codigo":83,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-02-24 12:23:55,"sis_amplitud":4102.9443570000003,"sis_duracion":48,"sis_energia_liberada":15825163.77})
+db.sismo.insert({"sis_codigo":84,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-02-25 04:23:36,"sis_amplitud":1049.8879460000001,"sis_duracion":45,"sis_energia_liberada":5164053.7999999998})
+db.sismo.insert({"sis_codigo":85,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-03-07 16:23:47,"sis_amplitud":2135.8996630000001,"sis_duracion":45,"sis_energia_liberada":1586729.4909999999,"localizaciones":
+[
+{"loc_codigo":49,"loc_latitud":1.236335247,"loc_longitud":78.06516594,"loc_profundidad":6.0599999999999996,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":86,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-04-25 00:52:52,"sis_amplitud":6219.8654569999999,"sis_duracion":34,"sis_energia_liberada":16888036.710000001})
+db.sismo.insert({"sis_codigo":87,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-06-03 16:06:04,"sis_amplitud":630.16338080000003,"sis_duracion":26,"sis_energia_liberada":3769506.4160000002,"localizaciones":
+[
+{"loc_codigo":17,"loc_latitud":1.992899851,"loc_longitud":78.000601430000003,"loc_profundidad":13.44,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":88,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-06-10 01:16:05,"sis_amplitud":2117.5997950000001,"sis_duracion":24,"sis_energia_liberada":6048444.5729999999})
+db.sismo.insert({"sis_codigo":89,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-07-13 02:46:34,"sis_amplitud":1788.436467,"sis_duracion":61,"sis_energia_liberada":8282728.3099999996})
+db.sismo.insert({"sis_codigo":90,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-07-24 00:29:28,"sis_amplitud":497.91239760000002,"sis_duracion":19,"sis_energia_liberada":2267678.0929999999,"localizaciones":
+[
+{"loc_codigo":21,"loc_latitud":1.6462006469999999,"loc_longitud":78.281523890000003,"loc_profundidad":2.6400000000000001,"loc_tipo_localizacion":"hypo71"},
+{"loc_codigo":51,"loc_latitud":2.0906691789999998,"loc_longitud":78.089196029999997,"loc_profundidad":7.0800000000000001,"loc_tipo_localizacion":"asl"},
+{"loc_codigo":52,"loc_latitud":1.3881052060000001,"loc_longitud":78.415025670000006,"loc_profundidad":13.130000000000001,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":91,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-09-01 05:15:15,"sis_amplitud":1369.1201000000001,"sis_duracion":46,"sis_energia_liberada":14949643.289999999})
+db.sismo.insert({"sis_codigo":92,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-09-04 11:27:54,"sis_amplitud":4337.7264059999998,"sis_duracion":11,"sis_energia_liberada":12057003.779999999})
+db.sismo.insert({"sis_codigo":93,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-09-21 09:55:50,"sis_amplitud":3714.1942690000001,"sis_duracion":8,"sis_energia_liberada":6028137.8190000001,"localizaciones":
+[
+{"loc_codigo":20,"loc_latitud":1.4662879230000001,"loc_longitud":77.583242859999999,"loc_profundidad":8.1300000000000008,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":94,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-10-02 18:55:11,"sis_amplitud":1005.17563,"sis_duracion":8,"sis_energia_liberada":12047744.41,"localizaciones":
+[
+{"loc_codigo":25,"loc_latitud":1.1382860180000001,"loc_longitud":77.986208140000002,"loc_profundidad":8.4600000000000009,"loc_tipo_localizacion":"hypo71"}
+]
+})
+db.sismo.insert({"sis_codigo":95,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-11-06 23:39:19,"sis_amplitud":1203.314018,"sis_duracion":55,"sis_energia_liberada":6030133.4919999996})
+db.sismo.insert({"sis_codigo":96,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-12-02 00:35:07,"sis_amplitud":2629.6089659999998,"sis_duracion":43,"sis_energia_liberada":10353337.02,"localizaciones":
+[
+{"loc_codigo":31,"loc_latitud":1.4121655529999999,"loc_longitud":77.851402879999995,"loc_profundidad":13.390000000000001,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":97,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2016-12-28 12:12:16,"sis_amplitud":1103.3888380000001,"sis_duracion":10,"sis_energia_liberada":9756111.4269999992,"localizaciones":
+[
+{"loc_codigo":36,"loc_latitud":1.6091905820000001,"loc_longitud":78.232054210000001,"loc_profundidad":9.5600000000000005,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":48,"loc_latitud":1.657222234,"loc_longitud":78.019141529999999,"loc_profundidad":4.25,"loc_tipo_localizacion":"automatica"},
+{"loc_codigo":50,"loc_latitud":1.867720947,"loc_longitud":77.834434139999999,"loc_profundidad":7.6799999999999997,"loc_tipo_localizacion":"asl"}
+]
+})
+db.sismo.insert({"sis_codigo":98,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2017-02-14 18:40:52,"sis_amplitud":44.371563530000003,"sis_duracion":27,"sis_energia_liberada":14151962.93,"localizaciones":
+[
+{"loc_codigo":29,"loc_latitud":1.7786669909999999,"loc_longitud":78.031849570000006,"loc_profundidad":4.8799999999999999,"loc_tipo_localizacion":"automatica"}
+]
+})
+db.sismo.insert({"sis_codigo":99,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2017-02-22 07:05:13,"sis_amplitud":1948.5801300000001,"sis_duracion":25,"sis_energia_liberada":8833489.5960000008})
+db.sismo.insert({"sis_codigo":100,"vol_nombre":"Purace","ess_codigo":18,"sis_tiempo_inicio":2017-03-25 21:40:45,"sis_amplitud":323.56868759999998,"sis_duracion":32,"sis_energia_liberada":15220059.74})
+
